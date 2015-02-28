@@ -1,0 +1,12 @@
+<?php if(!defined('BASEPATH')) exit('Direct script acceee is not allowed');
+$lang['content'] = 'Content';
+$lang['university'] = 'University';
+$lang['university_name'] = 'University Name';
+$lang['university_address'] = 'University address';
+$lang['university_slug'] = 'University slug';
+$lang['save'] = 'Save';
+$lang['cancel'] = 'Cancel';
+$lang['apply'] = 'Apply';
+$lang['state_name'] = 'State Name';
+$lang['image'] = 'Image';
+$lang['is_top'] = 'Is Top';

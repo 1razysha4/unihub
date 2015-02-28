@@ -1,0 +1,11 @@
+<?php if(!defined('BASEPATH')) exit('Direct script acceee is not allowed');
+$lang['content'] = 'Content';
+$lang['message_sent_successfully'] = 'Your message has been sent.';
+$lang['event_saved_successfully'] = 'Event Saved Successfully.';
+$lang['classified_saved_successfully'] = 'Your ad has been successfully posted.';
+$lang['event_could_not_be_saved'] = 'Event could not be saved.';
+$lang['classified_could_not_be_saved'] = 'Classified could not be saved.';
+$lang['post_deleted_successfully'] = 'Post has been deleted successfully.';
+$lang['unable_to_deleted_post'] = 'Post could not be deleted successfully.';
+$lang['thread_saved_successfully'] = 'Your thread has been successfully posted.';
+$lang['thread_could_not_be_saved'] = 'Thread could not be saved.';
